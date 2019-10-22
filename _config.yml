@@ -3,7 +3,7 @@ title: GitHub Blog
 SEOTitle: 夏建奇的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: qinghuo@gmail.com
-description: "Unable to recognize Chinese？"
+description: "Offline"
 keyword: ",iOS, Apple, iPhone"
 url: "http://DQXSY.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/DQXSY/DQXSY.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Looks like this！"
+sidebar-about-description: "岂能尽如人意，但求无愧于心！"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
